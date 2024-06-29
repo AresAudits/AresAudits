@@ -4,7 +4,13 @@ Welcome to my GitHub portfolio! I am a dedicated Smart Contract Security Researc
 
 ## 🛡️ About Me
 
-I am passionate about blockchain technology, cryptography, and secure coding practices. My expertise includes conducting comprehensive security audits, developing security tools, and responding to security incidents within the blockchain ecosystem.
+I am passionate about blockchain technology, cryptography, and secure coding practices. My expertise includes conducting comprehensive security audits, developing security tools, and participating in audit competitions.
+
+## 🌐 Connect with Me
+Feel free to reach out to me through:
+- **[Twitter](https://x.com/_AresAudits)**
+- **[Email](aresaudits@gmail.com)**
+
 
 ## 🚀 Findings
 
@@ -26,10 +32,6 @@ I am passionate about blockchain technology, cryptography, and secure coding pra
 |[Sherlock](https://www.sherlock.xyz/)   | Improper Validation in depositEth Function Allows Bypassing of Pool Type Checks which allow Direct Manipulation of Dai Holdings         | Medium     | [Link](https://github.com/AresAudits/Portfolio/blob/main/reports/Sherlock/Improper_Validation.md)
 
 
-## 🌐 Connect with Me
-Feel free to reach out to me through:
-- **[Twitter](https://x.com/_AresAudits)**
-- **[Email](aresaudits@gmail.com)**
 
 
 ---
