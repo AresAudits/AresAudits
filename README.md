@@ -28,8 +28,6 @@ Feel free to reach out to me through:
 |  | Signature Malleability in WebAuthn.sol | Medium | [Link](https://github.com/AresAudits/Portfolio/blob/main/reports/Hats/Signature_Malleability.md)
 |  | User tokens will be fully vested before the duration,incorrect logic implementation | Medium | [Link](https://github.com/AresAudits/Portfolio/blob/main/reports/Hats/incorrect_logic.md)
 |  | ProcessAndSortSignatures Function Fails to Handle Multiple Valid Signatures for Owners, Leading to Reversions in checkNSignatures Function if Threshold is Greater Than 1 | Medium | [Link](https://github.com/AresAudits/Portfolio/blob/main/reports/Hats/palmera.md)
-|[Immunefi](https://immunefi.com/)   | Improper Authorization in claimReward() Function  | Medium | [Link](https://github.com/AresAudits/Portfolio/blob/main/reports/Immunefi/Improper_Authorization.md)
-|  | Potential Griefing in Reward Distribution | High | [Link](https://github.com/AresAudits/Portfolio/blob/main/reports/Immunefi/Potential_Griefing.md)
 |[Sherlock](https://www.sherlock.xyz/)   | Improper Validation in depositEth Function Allows Bypassing of Pool Type Checks which allow Direct Manipulation of Dai Holdings         | Medium     | [Link](https://github.com/AresAudits/Portfolio/blob/main/reports/Sherlock/Improper_Validation.md)
 
 
