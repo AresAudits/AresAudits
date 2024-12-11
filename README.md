@@ -15,7 +15,7 @@ Feel free to reach out to me through:
 
 ## 🚀 Findings
 
-**Note:** This portfolio is not currently up-to-date.
+**Note:** This portfolio is not up-to-date.
 
 |Platform       | Title                     | Severity   | Link
 --------------  | ------------------------- | ---------- | -------------------------------------
