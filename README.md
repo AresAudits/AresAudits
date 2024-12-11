@@ -11,10 +11,11 @@ Feel free to reach out to me through:
 - **[Twitter](https://x.com/_AresAudits)**
 - **[Email](aresaudits@gmail.com)**
 - **[Telegram](https://t.me/Nishant_323)**
-- **[Discord](https://discord.gg/AGaRdjgD)**
+- **[Discord](http://discordapp.com/users/1047907939647762442)**
 
 ## 🚀 Findings
 
+**Note:** This portfolio is not currently up-to-date.
 
 |Platform       | Title                     | Severity   | Link
 --------------  | ------------------------- | ---------- | -------------------------------------
