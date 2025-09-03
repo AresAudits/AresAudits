@@ -6,6 +6,18 @@ Welcome to my GitHub portfolio! I am a dedicated Smart Contract Security Researc
 
 I'm a dedicated and detail-oriented Smart Contract Security Researcher with a deep passion for DeFi and Web3 security. My expertise lies in identifying critical vulnerabilities, mitigating complex risks, and ensuring the integrity and safety of blockchain protocols. I have a proven track record in both private security audits and competitive auditing.
 
+## ⚡ Skills & Tech Stack  
+
+**Languages:** Solidity, Rust, Javascript, Go, C, C++  
+**Frameworks & Tools:** Foundry, Hardhat, Echidna, Slither, React, Woke
+
+
+## 🔒 Private Audits  
+
+| Protocol Name       | Protocol Type   | Report        | Date       |
+|---------------------|-----------------|---------------|------------|
+
+
 ## 🌐 Connect with Me
 Feel free to reach out to me through:
 - **[Twitter](https://x.com/_AresAudits)**
