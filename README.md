@@ -16,8 +16,21 @@ I'm a dedicated and detail-oriented Smart Contract Security Researcher with a de
 
 | Protocol Name       | Protocol Type   | Report        | Date       |
 |---------------------|-----------------|---------------|------------|
-
-
+| Rdatadao           | DAO            | [upcoming]     | Aug 2025  |
+| Nebula | NFT Marketplace | [upcoming]     | Aug 2025   |
+| World3.ai | Dapp | [Link](https://hashlock.com/wp-content/uploads/2025/08/World3ai-Updates-Smart-Contract-Audit-Report-Final-Report-v1.pdf)   | July 2025  |
+| Levva | Defi | Confidential | Aug 2025 |
+| Theoriq | Defi | Confidential | July 2025 | 
+| World3.ai | Defi | [Link](https://hashlock.com/wp-content/uploads/2025/08/World3.ai-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | July 2025 |
+| OpenZK | Defi | [Link](https://hashlock.com/wp-content/uploads/2025/01/OpenZK-8th-Smart-Contract-Audit-Report-Final-Report-v3.pdf) | June 2025 | 
+| Defi-Bull | Defi | [Link](https://hashlock.com/wp-content/uploads/2025/03/DeFi-Bull-4th-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | June 2025 |
+| Potomac Capital | SToken |Confidential| July 2025 | 
+| Allbridge | Defi | Confidential | July 2025 |
+| HoneyPot finance | Defi | Confidential | May 2025 |
+| DB Cherry | AA Wallet | [Link](https://hashlock.com/wp-content/uploads/2025/05/DB-Cherry-Smart-Contract-Audit-Report-Final-Report-v1.pdf) |  May 2025 |
+| Defi-Bull | Defi | [Link](https://hashlock.com/wp-content/uploads/2025/03/Defi-Bull-World-2nd-Smart-Contract-Audit-Report-Final-Report-v3.pdf) | May 2025 |
+| Metaversal | Defi | [Link](https://hashlock.com/wp-content/uploads/2025/03/Metaversal-Smart-Contract-Audit-Report-Final-Report.pdf) | March 2025 | 
+| Immersve | CeDefi | [Link](https://hashlock.com/wp-content/uploads/2024/08/Immersve-2nd-Smart-Contract-Audit-Report-Final-Report-v3.pdf) | March 2025 |
 ## 🌐 Connect with Me
 Feel free to reach out to me through:
 - **[Twitter](https://x.com/_AresAudits)**
