@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! I am a dedicated Smart Contract Security Researc
 
 ## 🛡️ About Me
 
-I am passionate about blockchain technology, cryptography, and secure coding practices. My expertise includes conducting comprehensive security audits, developing security tools, and participating in audit competitions.
+I'm a dedicated and detail-oriented Smart Contract Security Researcher with a deep passion for DeFi and Web3 security. My expertise lies in identifying critical vulnerabilities, mitigating complex risks, and ensuring the integrity and safety of blockchain protocols. I have a proven track record in both private security audits and competitive auditing.
 
 ## 🌐 Connect with Me
 Feel free to reach out to me through:
