@@ -29,6 +29,7 @@ I'm a dedicated and detail-oriented Smart Contract Security Researcher with a de
 | HoneyPot finance | Defi | Confidential | May 2025 |
 | DB Cherry | AA Wallet | [Link](https://hashlock.com/wp-content/uploads/2025/05/DB-Cherry-Smart-Contract-Audit-Report-Final-Report-v1.pdf) |  May 2025 |
 | Defi-Bull | Defi | [Link](https://hashlock.com/wp-content/uploads/2025/03/Defi-Bull-World-2nd-Smart-Contract-Audit-Report-Final-Report-v3.pdf) | May 2025 |
+| Cove | Defi | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Cove-security-review_2025-04-16.pdf) | April 2025 |
 | Metaversal | Defi | [Link](https://hashlock.com/wp-content/uploads/2025/03/Metaversal-Smart-Contract-Audit-Report-Final-Report.pdf) | March 2025 | 
 | Immersve | CeDefi | [Link](https://hashlock.com/wp-content/uploads/2024/08/Immersve-2nd-Smart-Contract-Audit-Report-Final-Report-v3.pdf) | March 2025 |
 ## 🌐 Connect with Me
