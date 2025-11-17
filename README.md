@@ -26,6 +26,12 @@ I'm a dedicated and detail-oriented Smart Contract Security Researcher with a de
 
 | Protocol Name       | Protocol Type   | Report        | Date       |
 |---------------------|-----------------|---------------|------------|
+| Bimo | Defi | [upcoming] | Nov 2025 | 
+| Sognistaking | Defi | [upcoming] | Nov 2025 | 
+| Onramp | Defi | [upcoming] | Nov 2025 | 
+| Balloon | Defi | [Link](https://hashlock.com/wp-content/uploads/2025/09/Balloon-2nd-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | Sept 2025 |
+| Layer Labs | Infra | [Link](https://hashlock.com/wp-content/uploads/2025/09/Layer-Labs-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | Sept 2025 |
+| Catswap | DEX | [Link](https://hashlock.com/wp-content/uploads/2025/09/CatSwap-Smart-Contract-Audit-Report-Final-Report-v2-1.pdf) | Sept 2025 |
 | Rdatadao           | DAO            | [upcoming]     | Aug 2025  |
 | Nebula | NFT Marketplace | [upcoming]     | Aug 2025   |
 | World3.ai | Dapp | [Link](https://hashlock.com/wp-content/uploads/2025/08/World3ai-Updates-Smart-Contract-Audit-Report-Final-Report-v1.pdf)   | July 2025  |
