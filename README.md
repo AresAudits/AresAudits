@@ -2,7 +2,10 @@
 
 **Smart Contract Security Researcher**
 
-`30+ Audits` | `~$1.2B TVL Secured` | `2x 1st Place` | `5x Top 5`
+- 30+ Audits
+- ~$1.2B TVL Secured
+- 2x 1st Place
+- 5x Top 5
 
 ## About Me
 
