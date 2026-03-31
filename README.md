@@ -1,12 +1,14 @@
-# AresAudits - Portfolio
+# AresAudits
 
-Welcome to my GitHub portfolio! I am a dedicated Smart Contract Security Researcher with a strong focus on ensuring the safety and reliability of decentralized applications. This repository showcases my work, contributions, and research in the field of smart contract security.
+**Smart Contract Security Researcher**
 
-## 🛡️ About Me
+`30+ Audits` | `~$1.2B TVL Secured` | `2x 1st Place` | `5x Top 5`
 
-I'm a dedicated and detail-oriented Smart Contract Security Researcher with a deep passion for DeFi and Web3 security. My expertise lies in identifying critical vulnerabilities, mitigating complex risks, and ensuring the integrity and safety of blockchain protocols. I have a proven track record in both private security audits and competitive auditing.
+## About Me
 
-## 🏆 Audit Competition Rankings  
+Smart Contract Security Researcher specializing in DeFi and Web3 security. Experienced in identifying critical vulnerabilities, mitigating complex risks, and ensuring the integrity of blockchain protocols. Proven track record in both private security audits and competitive auditing.
+
+## Audit Competition Rankings
 
 | Contest Name        | Platform    | Rank      |
 |---------------------|-------------|-----------|
@@ -19,10 +21,7 @@ I'm a dedicated and detail-oriented Smart Contract Security Researcher with a de
 | Interpol           | Cantina| [8th](https://cantina.xyz/competitions/55023131-27df-44e4-af46-bec298d0fa8e/leaderboard)     |
 | Fenix            | Hats Finance   | [8th](https://app.hats.finance/audit-competitions/fenix-0x9d7765a7ebd5b6322a30797a44a5428531970d3d/leaderboard)     |
 
-&More...
-
-
-## 🔒 Private Audits  
+## Private Audits
 
 | Protocol Name       | Protocol Type   | Report        | Date       |
 |---------------------|-----------------|---------------|------------|
@@ -34,37 +33,37 @@ I'm a dedicated and detail-oriented Smart Contract Security Researcher with a de
 | Rocket Pool | Defi | Confidential | Jan 2026 |
 | Klima DAO | Defi | Confidential | Dec 2025 |
 | The Oriq 2 | Defi | Confidential | Nov 2025 |
-| Bimo | Defi | [upcoming] | Nov 2025 |
-| Sognistaking | Defi | [upcoming] | Nov 2025 |
-| Onramp | Defi | [upcoming] | Nov 2025 | 
+| Bimo | Defi | Confidential | Nov 2025 |
+| Sognistaking | Defi | Confidential | Nov 2025 |
+| Onramp | Defi | Confidential | Nov 2025 |
 | Balloon | Defi | [Link](https://hashlock.com/wp-content/uploads/2025/09/Balloon-2nd-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | Sept 2025 |
 | Layer Labs | Infra | [Link](https://hashlock.com/wp-content/uploads/2025/09/Layer-Labs-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | Sept 2025 |
 | Catswap | DEX | [Link](https://hashlock.com/wp-content/uploads/2025/09/CatSwap-Smart-Contract-Audit-Report-Final-Report-v2-1.pdf) | Sept 2025 |
-| Rdatadao           | DAO            | [upcoming]     | Aug 2025  |
-| Nebula | NFT Marketplace | [upcoming]     | Aug 2025   |
-| World3.ai | Dapp | [Link](https://hashlock.com/wp-content/uploads/2025/08/World3ai-Updates-Smart-Contract-Audit-Report-Final-Report-v1.pdf)   | July 2025  |
 | Levva | Defi | Confidential | Aug 2025 |
-| Theoriq | Defi | Confidential | July 2025 | 
-| World3.ai | Defi | [Link](https://hashlock.com/wp-content/uploads/2025/08/World3.ai-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | July 2025 |
-| OpenZK | Defi | [Link](https://hashlock.com/wp-content/uploads/2025/01/OpenZK-8th-Smart-Contract-Audit-Report-Final-Report-v3.pdf) | June 2025 | 
-| Defi-Bull | Defi | [Link](https://hashlock.com/wp-content/uploads/2025/03/DeFi-Bull-4th-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | June 2025 |
-| Potomac Capital | SToken |Confidential| July 2025 | 
+| Rdatadao | DAO | Confidential | Aug 2025 |
+| Nebula | NFT Marketplace | Confidential | Aug 2025 |
+| Theoriq | Defi | Confidential | July 2025 |
+| Potomac Capital | SToken | Confidential | July 2025 |
 | Allbridge | Defi | Confidential | July 2025 |
-| HoneyPot finance | Defi | Confidential | May 2025 |
-| DB Cherry | AA Wallet | [Link](https://hashlock.com/wp-content/uploads/2025/05/DB-Cherry-Smart-Contract-Audit-Report-Final-Report-v1.pdf) |  May 2025 |
+| World3.ai | Dapp | [Link](https://hashlock.com/wp-content/uploads/2025/08/World3ai-Updates-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | July 2025 |
+| World3.ai | Defi | [Link](https://hashlock.com/wp-content/uploads/2025/08/World3.ai-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | July 2025 |
+| OpenZK | Defi | [Link](https://hashlock.com/wp-content/uploads/2025/01/OpenZK-8th-Smart-Contract-Audit-Report-Final-Report-v3.pdf) | June 2025 |
+| Defi-Bull | Defi | [Link](https://hashlock.com/wp-content/uploads/2025/03/DeFi-Bull-4th-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | June 2025 |
+| HoneyPot Finance | Defi | Confidential | May 2025 |
+| DB Cherry | AA Wallet | [Link](https://hashlock.com/wp-content/uploads/2025/05/DB-Cherry-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | May 2025 |
 | Defi-Bull | Defi | [Link](https://hashlock.com/wp-content/uploads/2025/03/Defi-Bull-World-2nd-Smart-Contract-Audit-Report-Final-Report-v3.pdf) | May 2025 |
 | Cove | Defi | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Cove-security-review_2025-04-16.pdf) | April 2025 |
-| Metaversal | Defi | [Link](https://hashlock.com/wp-content/uploads/2025/03/Metaversal-Smart-Contract-Audit-Report-Final-Report.pdf) | March 2025 | 
+| Metaversal | Defi | [Link](https://hashlock.com/wp-content/uploads/2025/03/Metaversal-Smart-Contract-Audit-Report-Final-Report.pdf) | March 2025 |
 | Immersve | CeDefi | [Link](https://hashlock.com/wp-content/uploads/2024/08/Immersve-2nd-Smart-Contract-Audit-Report-Final-Report-v3.pdf) | March 2025 |
 
 
-## ⚡ Skills & Tech Stack  
+## Skills & Tech Stack
 
 **Languages:** Solidity, Rust, Javascript, Go, C, C++  
 **Frameworks & Tools:** Foundry, Hardhat, Echidna, Slither, React, Woke
 
-## 🌐 Connect with Me
-Feel free to reach out to me through:
+## Connect with Me
+
 - **[Twitter](https://x.com/_AresAudits)**
 - **[Email](aresaudits@gmail.com)**
 - **[Telegram](https://t.me/Nishant_323)**
