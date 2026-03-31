@@ -4,7 +4,7 @@
 
 | Audits Completed | TVL Secured | 1st Place Finishes | Top 5 Finishes |
 |:---:|:---:|:---:|:---:|
-| **30+** | **~$1.2B** | **2** | **5** |
+| **40+** | **~$1.2B** | **2** | **5** |
 
 ## About Me
 
