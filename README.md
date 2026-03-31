@@ -26,8 +26,16 @@ I'm a dedicated and detail-oriented Smart Contract Security Researcher with a de
 
 | Protocol Name       | Protocol Type   | Report        | Date       |
 |---------------------|-----------------|---------------|------------|
-| Bimo | Defi | [upcoming] | Nov 2025 | 
-| Sognistaking | Defi | [upcoming] | Nov 2025 | 
+| Topos Deal | Defi | Confidential | March 2026 |
+| 1Inch | Defi | Confidential | Feb 2026 |
+| 1XEcochain | Defi | Confidential | Feb 2026 |
+| Miracle World | Defi | Confidential | Jan 2026 |
+| Market Dao | Defi | Confidential | Jan 2026 |
+| Rocket Pool | Defi | Confidential | Jan 2026 |
+| Klima DAO | Defi | Confidential | Dec 2025 |
+| The Oriq 2 | Defi | Confidential | Nov 2025 |
+| Bimo | Defi | [upcoming] | Nov 2025 |
+| Sognistaking | Defi | [upcoming] | Nov 2025 |
 | Onramp | Defi | [upcoming] | Nov 2025 | 
 | Balloon | Defi | [Link](https://hashlock.com/wp-content/uploads/2025/09/Balloon-2nd-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | Sept 2025 |
 | Layer Labs | Infra | [Link](https://hashlock.com/wp-content/uploads/2025/09/Layer-Labs-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | Sept 2025 |
