@@ -14,7 +14,7 @@ Smart Contract Security Researcher specializing in DeFi and Web3 security. Exper
 
 | Contest Name        | Platform    | Rank      |
 |---------------------|-------------|-----------|
-| Kleros cross chain | Hats Finance | [1st](https://app.hats.finance/audit-competitions/cross-chain-realitio-proxy-0x9efc47be23fb612aff9bce511bad4a308f1f4f39/leaderboard) | 
+| Kleros cross chain | Hats Finance | [1st](https://x.com/HatsFinance/status/1984247885744206039?s=20) | 
 | Tapioca           | Hats Finance   | [1st](https://app.hats.finance/audit-competitions/tapioca-0xe0b920d38a0900af3bab7ff0ca0af554129f54ad/leaderboard)     |
 | DAOsis           | Hats Finance    | [3rd](https://app.hats.finance/audit-competitions/daosis-0x8ef21ecb2af12ce9cc0e475eec25f90a9622b4f4/leaderboard)     |
 | Palmera           | Hats Finance| [4th](https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/leaderboard)     |
