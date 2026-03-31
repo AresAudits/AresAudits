@@ -31,7 +31,7 @@ Smart Contract Security Researcher specializing in DeFi and Web3 security. Exper
 | 1Inch | Defi | Confidential | Feb 2026 |
 | 1XEcochain | Defi | Confidential | Feb 2026 |
 | Miracle World | Defi | [Link](https://hashlock.com/wp-content/uploads/2026/01/Miracle-World-Smart-Contract-Audit-Report-Final-Report-v4-1.pdf) | Jan 2026 |
-| Market Dao | Defi | Confidential | Jan 2026 |
+| Market Dao | Defi | [Link](https://hashlock.com/wp-content/uploads/2026/01/MarketDAO-Smart-Contract-Audit-Report-Final-Report-v3.pdf) | Jan 2026 |
 | Rocket Pool | Defi | Confidential | Jan 2026 |
 | Klima DAO | Defi | Confidential | Dec 2025 |
 | The Oriq 2 | Defi | Confidential | Nov 2025 |
