@@ -2,13 +2,20 @@
 
 **Smart Contract Security Researcher**
 
+## About Me
+
+Smart Contract Security Researcher specializing in DeFi and Web3 security. Experienced in identifying critical vulnerabilities, mitigating complex risks, and ensuring the integrity of blockchain protocols. Proven track record in both private security audits and competitive auditing.
+
 | Audits Completed | TVL Secured | 1st Place Finishes | Top 5 Finishes |
 |:---:|:---:|:---:|:---:|
 | **40+** | **~$1.2B** | **2** | **5** |
 
-## About Me
+## Highlights
 
-Smart Contract Security Researcher specializing in DeFi and Web3 security. Experienced in identifying critical vulnerabilities, mitigating complex risks, and ensuring the integrity of blockchain protocols. Proven track record in both private security audits and competitive auditing.
+- **150+ High/Medium severity vulnerabilities reported across competitive and private audits**
+- **Caught a pre-launch critical that would have caused premature token unlocks and system-wide protocol disruption**
+- **Private auditor at Hashlock — delivering audits for high-profile DeFi clients**
+- **Building security tooling: AresScan (Rust vulnerability scanner) and ImScraper (Go bounty-data collector)**
 
 ## Audit Competition Rankings
 
