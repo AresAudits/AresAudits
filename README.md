@@ -6,9 +6,9 @@
 
 Smart Contract Security Researcher specializing in DeFi and Web3 security. Experienced in identifying critical vulnerabilities, mitigating complex risks, and ensuring the integrity of blockchain protocols. Proven track record in both private security audits and competitive auditing.
 
-| Audits Completed | TVL Secured | 1st Place Finishes | Top 5 Finishes |
-|:---:|:---:|:---:|:---:|
-| **40+** | **~$1.2B** | **2** | **5** |
+| Audits Completed | TVL Secured | 1st Place Finishes | Top 5 Finishes | H/M Findings |
+|:---:|:---:|:---:|:---:|:---:|
+| **40+** | **~$1.2B** | **2** | **5** | **200+** |
 
 ## Highlights
 
