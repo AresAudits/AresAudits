@@ -34,6 +34,10 @@ Smart Contract Security Researcher specializing in DeFi and Web3 security. Exper
 
 | Protocol Name       | Protocol Type   | Report        | Date       |
 |---------------------|-----------------|---------------|------------|
+| Celo | Defi | Confidential | June 2026 |
+| Omen | Defi | Confidential | May 2026 |
+| Lucid | Defi | Confidential | May 2026 |
+| HedgeHogs | Defi | Confidential | April 2026 |
 | Topos Deal | Defi | Confidential | March 2026 |
 | 1Inch | Defi | Confidential | Feb 2026 |
 | 1XEcochain | Defi | Confidential | Feb 2026 |
