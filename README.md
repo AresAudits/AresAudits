@@ -70,6 +70,19 @@ Smart Contract Security Researcher specializing in DeFi and Web3 security. Exper
 | Immersve | CeDefi | [Link](https://hashlock.com/wp-content/uploads/2024/08/Immersve-2nd-Smart-Contract-Audit-Report-Final-Report-v3.pdf) | March 2025 |
 
 
+## Bug Bounty
+
+Selected valid findings from bug bounty programs:
+
+| Protocol            | Platform    | Severity  |
+|---------------------|-------------|-----------|
+| Bucket Protocol | HackenProof | High |
+| Tapioca | Invite-only | Medium |
+| Bucket Protocol | HackenProof | Medium |
+| RocketPool | Invite-only | Medium |
+
+*+ several Low severity findings across various programs*
+
 ## Skills & Tech Stack
 
 **Languages:** Solidity, Rust, Javascript, Go, C, C++  
