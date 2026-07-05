@@ -90,7 +90,7 @@ Selected valid findings from bug bounty programs:
 
 ## Connect with Me
 
-- **[Twitter](https://x.com/_AresAudits)**
+- **[Twitter](https://x.com/AresAudits)**
 - **[Email](aresaudits@gmail.com)**
 - **[Telegram](https://t.me/Nishant_323)**
 - **[Discord](http://discordapp.com/users/1047907939647762442)**
