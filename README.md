@@ -12,7 +12,7 @@ Smart Contract Security Researcher specializing in DeFi and Web3 security. Exper
 
 ## Highlights
 
-- **150+ High/Medium severity vulnerabilities reported across competitive and private audits**
+- **200+ High/Medium severity vulnerabilities reported across competitive and private audits**
 - **Caught a pre-launch critical that would have caused premature token unlocks and system-wide protocol disruption**
 - **Private auditor at Hashlock — delivering audits for high-profile DeFi clients**
 - **Building security tooling: AresScan (Rust vulnerability scanner) and ImScraper (Go bounty-data collector)**
