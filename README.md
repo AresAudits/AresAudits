@@ -8,7 +8,7 @@ Smart Contract Security Researcher specializing in DeFi and Web3 security. Exper
 
 | Audits Completed | TVL Secured | 1st Place Finishes | Top 5 Finishes | H/M Findings |
 |:---:|:---:|:---:|:---:|:---:|
-| **40+** | **~$1.2B** | **2** | **5** | **200+** |
+| **45+** | **~$1.2B** | **2** | **5** | **200+** |
 
 ## Highlights
 
