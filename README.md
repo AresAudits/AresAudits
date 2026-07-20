@@ -85,6 +85,12 @@ Selected valid findings from bug bounty programs:
 
 *+ several Low severity findings across various programs*
 
+## Blogs / Research Papers
+
+- **[The Smoke Detector Problem: What On-Chain Monitoring Can and Can't Stop in 2026](https://r.xyz/blog/the-smoke-detector-problem-what-on-chain-monitoring-can-and-can-t-stop-in-2026)** — Remedy (Hexens), July 2026
+
+*More cooking...*
+
 ## Skills & Tech Stack
 
 **Languages:** Solidity, Rust, Javascript, Go, C, C++  
